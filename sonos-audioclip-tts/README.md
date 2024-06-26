@@ -20,7 +20,7 @@ This will only work with the devices listed at the top of the page here: [Audio 
 
 ### Install the Add On
 
-Add this `https://github.com/TeHashX/SONOS-AudioClip-Nabu-Casa-Cloud-TTS` as a custom repository as usual and click install under this addon.
+Add this `https://github.com/TeHashX/Home-Assistant_SONOS-AudioClip-Nabu-Casa-Cloud-TTS` as a custom repository as usual and click install under this addon.
 
 NOTE: This addon is a local build addon. That means that Home Assistant will build the addon image on your HA machine so installation might take awhile.
 
