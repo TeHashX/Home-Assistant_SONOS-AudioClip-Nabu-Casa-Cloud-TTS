@@ -3,7 +3,7 @@
   "version": "3.0.2",
   "slug": "sonos_audioclip_cloud_tts",
   "description": "Implements the Nabu Casa Cloud TTS on SONOS using built in audioClip support, based on the work by kevinvincent.",
-  "url": "https://github.com/TeHashX/SONOS-AudioClip-Nabu-Casa-Cloud-TTS",
+  "url": "https://github.com/TeHashX/Home-Assistant_SONOS-AudioClip-Nabu-Casa-Cloud-TTS",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
   "boot": "auto",
